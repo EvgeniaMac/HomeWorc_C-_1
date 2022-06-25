@@ -1,0 +1,15 @@
+C:\GB_Makarova\HW1\Tasc002\bin\Debug\net6.0\Tasc002.exe
+C:\GB_Makarova\HW1\Tasc002\bin\Debug\net6.0\Tasc002.deps.json
+C:\GB_Makarova\HW1\Tasc002\bin\Debug\net6.0\Tasc002.runtimeconfig.json
+C:\GB_Makarova\HW1\Tasc002\bin\Debug\net6.0\Tasc002.dll
+C:\GB_Makarova\HW1\Tasc002\bin\Debug\net6.0\Tasc002.pdb
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.csproj.AssemblyReference.cache
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.AssemblyInfoInputs.cache
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.AssemblyInfo.cs
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.csproj.CoreCompileInputs.cache
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.dll
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\refint\Tasc002.dll
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.pdb
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\Tasc002.genruntimeconfig.cache
+C:\GB_Makarova\HW1\Tasc002\obj\Debug\net6.0\ref\Tasc002.dll
